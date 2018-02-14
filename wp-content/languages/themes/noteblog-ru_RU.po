@@ -1,0 +1,648 @@
+# Translation of Themes - Noteblog in Russian
+# This file is distributed under the same license as the Themes - Noteblog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-15 17:27:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Noteblog\n"
+
+#: inc/extras.php:81
+msgid "If you like Noteblog then let the developer know, he gets so happy! "
+msgstr "Если вам нравится Noteblog, напишите отзыв разработчику, он будет счастлив! "
+
+#: inc/extras.php:80
+msgid "We work hard & do our best to give you an awesome theme."
+msgstr "Мы прилагаем все усилия и делаем все возможное, чтобы сделать для вас потрясающую тему."
+
+#: inc/extras.php:78
+msgid "Do you like Noteblog?"
+msgstr "Нравится Noteblog?"
+
+#: inc/customizer.php:81
+msgid "We work hard & do our best to give you an awesome theme. If you like Noteblog then let the developer know, he gets so happy!"
+msgstr "Мы прилагаем все усилия и делаем все возможное, чтобы сделать для вас потрясающую тему. Если вам нравится Noteblog, напишите отзыв разработчику, он будет счастлив!"
+
+#: inc/customizer.php:79
+msgid "Rate Noteblog <3"
+msgstr "Оценить Noteblog <3"
+
+#: inc/extras.php:86
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: inc/extras.php:72
+msgid "write to us directly at: Beseenseo@gmail.com"
+msgstr "напишите нам по адресу эл. почты: Beseenseo@gmail.com"
+
+#: inc/extras.php:72
+msgid "Email us here"
+msgstr "Свяжитесь с нами"
+
+#: inc/extras.php:72
+msgid "If you have questions or need help with anything theme related please"
+msgstr "Если у вас имеются вопросы или нужна помощь, связанные с темой, пожалуйста"
+
+#: inc/customizer.php:31
+msgid "Have questions or need help? "
+msgstr "Имеются вопросы или нужна помощь? "
+
+#: inc/customizer.php:29
+msgid "Help and Support"
+msgstr "Помощь и поддержка"
+
+#: inc/customizer.php:188
+msgid "<a href=\"https://lighthouseseooptimization.github.io/wordpress/noteblog/\" target=\"_blank\"><img src=\"https://lighthouseseooptimization.github.io/wordpress/noteblog/img/small-info.png\"></a><p><strong>Got questions or need help?</strong></p><a href=\"https://lighthouseseooptimization.github.io/wordpress/noteblog/#contact\" target=\"_blank\">Email us here</a> or write to us directly at: Beseenseo@gmail.com <br><br> Upgrade to noteblog Pro to get 30+ more features! "
+msgstr "<a href=\"https://lighthouseseooptimization.github.io/wordpress/noteblog/\" target=\"_blank\"><img src=\"https://lighthouseseooptimization.github.io/wordpress/noteblog/img/small-info.png\"></a><p><strong>Имеются вопросы или нужна помощь?</strong></p><a href=\"https://lighthouseseooptimization.github.io/wordpress/noteblog/#contact\" target=\"_blank\">Свяжитесь с нами</a> или напишите нам по адресу эл. почты: Beseenseo@gmail.com <br><br> Улучшите до Noteblog Pro, чтобы получить доступ к 30 и более возможностям! "
+
+#: inc/customizer.php:186
+msgid "Noteblog Pro"
+msgstr "Noteblog Pro"
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по этим ключевым словам ничего не найдено. Пожалуйста, попробуйте другие слова."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14 template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-link.php:30 template-parts/content.php:41
+msgid " Read More"
+msgstr " Читать далее"
+
+#: template-parts/content-excerpt.php:17 template-parts/content-excerpt.php:38
+#: template-parts/content.php:15
+msgid "Featured"
+msgstr "Избранное"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Найти"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:12 searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/template-tags.php:194
+msgid "Edit This Post"
+msgstr "Изменить запись"
+
+#: inc/template-tags.php:187
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:174 inc/template-tags.php:185
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:118 inc/template-tags.php:144
+msgid "View all posts by"
+msgstr "Посмотреть все записи"
+
+#: inc/template-tags.php:94
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: inc/template-tags.php:94
+msgid " Next"
+msgstr " Следующий"
+
+#: inc/template-tags.php:80
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: inc/template-tags.php:79
+msgid "Previous "
+msgstr "Предыдущий "
+
+#: inc/template-tags.php:70
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:41
+msgid "Older Posts "
+msgstr "Старые записи "
+
+#: inc/template-tags.php:32
+msgid "Newer Posts"
+msgstr "Новые записи"
+
+#: inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/extras.php:477
+msgid "In the WordPress admin menu click Appearance > Customize > Post & Pages and paste in the link to your author image, 50x50 size is recommended."
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Записи и Страницы и вставьте ссылку на изображение автора. Рекомендуемый размер изображения: 50x50 пикс."
+
+#: inc/extras.php:475
+msgid "Adding an author image on posts"
+msgstr "Добавление изображения автора в записях"
+
+#: inc/extras.php:467
+msgid "In the WordPress admin menu click Appearance > Customize > Front page: Header"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Главная страница: Шапка"
+
+#: inc/extras.php:465
+msgid "Adding custom header text"
+msgstr "Добавление своего текста на шапку"
+
+#: inc/extras.php:457
+msgid "In the WordPress admin menu click Appearance > Customize > Additional CSS"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Дополнительные стили"
+
+#: inc/extras.php:455
+msgid "Adding custom CSS"
+msgstr "Добавление дополнительных стилей CSS"
+
+#: inc/extras.php:447
+msgid "In the WordPress admin menu click Appearance > Customize > bottom widgets design"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Дизайн виджетов внизу"
+
+#: inc/extras.php:445
+msgid "Changing design on bottom widgets"
+msgstr "Изменение дизайна виджетов внизу"
+
+#: inc/extras.php:437
+msgid "In the WordPress admin menu click Appearance > Customize > top widgets design"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Дизайн виджетов вверху"
+
+#: inc/extras.php:435
+msgid "Changing design on top widgets"
+msgstr "Изменение дизайна виджетов вверху"
+
+#: inc/extras.php:425
+msgid "Adding Sidebar widgets"
+msgstr "Добавление виджетов на боковую панель"
+
+#: inc/extras.php:415
+msgid "Adding Footer widgets"
+msgstr "Добавление виджетов в подвал"
+
+#: inc/extras.php:405
+msgid "Adding bottom widgets"
+msgstr "Добавление виджетов внизу"
+
+#: inc/extras.php:397 inc/extras.php:407 inc/extras.php:417 inc/extras.php:427
+msgid "In the WordPress admin menu click Appearance > Widgets"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Виджеты"
+
+#: inc/extras.php:395
+msgid "Adding top widgets"
+msgstr "Добавление виджетов вверху"
+
+#: inc/extras.php:385
+msgid "Changing post author byline color"
+msgstr "Изменение цвета подписи автора записи"
+
+#: inc/extras.php:375
+msgid "Changing post & page content color"
+msgstr "Изменение цвета текста записи и страниц"
+
+#: inc/extras.php:367 inc/extras.php:377 inc/extras.php:387
+msgid "In the WordPress admin menu click Appearance > Customize > Post & Page"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Записи и страницы"
+
+#: inc/extras.php:365
+msgid "Changing post & page headline color "
+msgstr "Изменение цвета заголовка записей и страниц "
+
+#: inc/extras.php:355
+msgid "Changing navigation logo color"
+msgstr "Изменение цвета логотипа навигации"
+
+#: inc/extras.php:345
+msgid "Changing navigation link color"
+msgstr "Изменение цвета ссылок навигации"
+
+#: inc/extras.php:337 inc/extras.php:347 inc/extras.php:357
+msgid "In the WordPress admin menu click Appearance > Customize > Navigation"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Навигация"
+
+#: inc/extras.php:335
+msgid "Changing navigation background color"
+msgstr "Изменение цвета фона навигации"
+
+#: inc/extras.php:325
+msgid "Changing sidebar link border color"
+msgstr "Изменение цвета границ боковой панели"
+
+#: inc/extras.php:315
+msgid "Changing sidebar link color"
+msgstr "Изменение цвета ссылок боковой панели"
+
+#: inc/extras.php:305
+msgid "Changing sidebar headline color"
+msgstr "Изменение цвета заголовка боковой панели"
+
+#: inc/extras.php:297 inc/extras.php:307 inc/extras.php:317 inc/extras.php:327
+msgid "In the WordPress admin menu click Appearance > Customize > Sidebar"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Боковая панель"
+
+#: inc/extras.php:295
+msgid "Changing Sidebar background color"
+msgstr "Изменение цвета фона боковой панели"
+
+#: inc/extras.php:285
+msgid "Changing footer copyright section text color"
+msgstr "Изменение цвета текста копирайта в подвале"
+
+#: inc/extras.php:275
+msgid "Changing footer copyright section background color"
+msgstr "Изменение цвета фона копирайта в подвале"
+
+#: inc/extras.php:265
+msgid "Changing Footer Widget Title Color"
+msgstr "Изменение цвета заголовка виджетов в подвале"
+
+#: inc/extras.php:257
+msgid "While editing a page, under Page Attributes, choose Full Width Template "
+msgstr "При редактировании страницы, в разделе \"Свойства страницы\", выберите \"Одноколоночный шаблон\" "
+
+#: inc/extras.php:255
+msgid "Using full width theme"
+msgstr "Использование одноколоночного шаблона"
+
+#: inc/extras.php:247
+msgid "In the WordPress admin menu click Appearance > Customize > Widgets "
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Виджеты"
+
+#: inc/extras.php:245
+msgid "Adding a widget"
+msgstr "Добавление виджета"
+
+#: inc/extras.php:237
+msgid "In the WordPress admin menu click Appearance > Customize > Accent Color > Select a color"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Основной цвет > Выберите цвет"
+
+#: inc/extras.php:235
+msgid "Changing Theme Color"
+msgstr "Изменение цвета темы"
+
+#: inc/extras.php:227
+msgid "In the WordPress admin menu click Appearance > Customize > Colors > background color"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Цвета > Цвет фона"
+
+#: inc/extras.php:225
+msgid "Changing background color"
+msgstr "Изменение цвета фона"
+
+#: inc/extras.php:217
+msgid "In the WordPress admin menu click Appearance > Customize > Header Image > Upload or pick a suggested"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Изображение заголовка > Загрузите или выберите предложенное изображение"
+
+#: inc/extras.php:215
+msgid "Adding a header image"
+msgstr "Добавление изображение заголовка"
+
+#: inc/extras.php:207
+msgid "In the WordPress admin menu click Appearance > Customize > Colors > Header background Color"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Цвета > Цвет фона шапки"
+
+#: inc/extras.php:205
+msgid "Changing header background color"
+msgstr "Изменение цвета фона шапки"
+
+#: inc/extras.php:197 inc/extras.php:267 inc/extras.php:277 inc/extras.php:287
+msgid "In the WordPress admin menu click Appearance > Customize > Footer"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Подвал"
+
+#: inc/extras.php:195
+msgid "Changing background color on footer widget area"
+msgstr "Изменение цвета фона виджетов в подвале"
+
+#: inc/extras.php:187
+msgid "In the WordPress admin menu click Appearance > Customize > Colors > Header Text Color"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Цвета > Цвет текста заголовка"
+
+#: inc/extras.php:185
+msgid "Changing header text color"
+msgstr "Изменение цвета текста заголовка"
+
+#: inc/extras.php:177
+msgid "In the WordPress admin menu click Appearance > Customize > Site Identity > Site Icon"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Свойства сайта > Иконка сайта"
+
+#: inc/extras.php:175
+msgid "Adding a Site Icon / Fav Icon"
+msgstr "Добавление иконки сайта (Favicon)"
+
+#: inc/extras.php:167
+msgid "In the WordPress admin menu click Appearance > Customize > Front Page Header"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Главная страница: Шапка"
+
+#: inc/extras.php:165
+msgid "Adding a tagline to the header image/color"
+msgstr "Добавление краткого описания сайта для изображения (цвета) шапки"
+
+#: inc/extras.php:157
+msgid "In the WordPress admin menu click Appearance > Customize > Site Identity > Site Title"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Свойства сайта > Название сайта"
+
+#: inc/extras.php:155
+msgid "Adding a title to the header image/color"
+msgstr "Добавление названия сайта для изображения (цвета) шапки"
+
+#: inc/extras.php:147
+msgid "In the WordPress admin menu click Appearance > Customize > Site Identity > Select Logo"
+msgstr "В консоли администратора WordPress щелкните Внешний вид > Настроить > Свойства сайта > Выберите логотип"
+
+#: inc/extras.php:145
+msgid "Adding a logo"
+msgstr "Добавление логотипа"
+
+#: inc/extras.php:137
+msgid "Go to Appearance > Customize > Footer and fill in Footer Copyright Text"
+msgstr "Перейдите в раздел Внешний вид > Настроить > Подвал и заполните текст в поле \"Текст копирайта в подвале\""
+
+#: inc/extras.php:135
+msgid "How to change footer copyright text"
+msgstr "Как изменить текст копирайта в подвале"
+
+#: inc/extras.php:127
+msgid "How to set up WP Super Cache"
+msgstr "Как установить WP Super Cache"
+
+#: inc/extras.php:126
+msgid "How to set up Autoptimize"
+msgstr "Как установить Autoptimize"
+
+#: inc/extras.php:125
+msgid "How to set up Yoast"
+msgstr "Как установить Yoast"
+
+#: inc/extras.php:123
+msgid "How to set up plugins"
+msgstr "Как установить плагины"
+
+#: inc/extras.php:114
+msgid "Go to Global Theme Color and choose default or pick a new one"
+msgstr "Перейдите в пункт \"Основной цвет темы\" и выберите цвет по умолчанию или выберите новый"
+
+#: inc/extras.php:113
+msgid "Go to Front Page Header and fill out a title and a tagline text"
+msgstr "Перейдите в раздел \"Главная страница: Шапка\" и заполните название и краткое описание"
+
+#: inc/extras.php:112
+msgid "Under \"Site identity\" pick a title and a tagline & choose \"Display site title and tagline\""
+msgstr "В разделе \"Свойства сайта\" введите название сайта и краткое описание, и поставьте флажок \"Отображать название и описание\""
+
+#: inc/extras.php:111
+msgid "Go to \"Appearance\" > \"Customize\" in the WordPress admin menu."
+msgstr "Перейдите в раздел \"Внешний вид\" > \"Настроить\" в консоле администратора WordPress."
+
+#: inc/extras.php:109
+msgid "How to set up your website like on our demo"
+msgstr "Как настроить свой сайт так же, как на демо-сайте"
+
+#: inc/extras.php:107
+msgid "Making your website like the demo"
+msgstr "Сделать свой сайт так же, как на демо-сайте"
+
+#: inc/extras.php:103
+msgid "F.A.Q & Documentation"
+msgstr "Часто задаваемые вопросы и документация"
+
+#: inc/extras.php:71
+msgid "Welcome to Noteblog"
+msgstr "Добро пожаловать в \"Noteblog\""
+
+#. #-#-#-#-#  noteblog.pot (Noteblog 1.3)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/extras.php:65
+msgid "Noteblog"
+msgstr "Noteblog"
+
+#: inc/customizer.php:339
+msgid "Blue"
+msgstr "Синий"
+
+#: inc/customizer.php:333
+msgid "yellow"
+msgstr "Желтый"
+
+#: inc/customizer.php:327
+msgid "Red"
+msgstr "Красный"
+
+#: inc/customizer.php:321
+msgid "Green"
+msgstr "Зеленый"
+
+#: inc/customizer.php:315
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: inc/customizer.php:309
+msgid "Pink"
+msgstr "Розовый"
+
+#: inc/customizer.php:303
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:289
+msgid "Full post"
+msgstr "Запись полностью"
+
+#: inc/customizer.php:288
+msgid "Post excerpt"
+msgstr "Отрывок записи"
+
+#: inc/customizer.php:283
+msgid "How would you like to dipaly a post on post listing page?"
+msgstr "Как вы желаете отобразить записи на странице с записями?"
+
+#: inc/customizer.php:269
+msgid "Post Options"
+msgstr "Настройки записей"
+
+#: inc/customizer.php:178
+msgid "Applied to highlight elements, buttons and much more."
+msgstr "Применяется к ссылкам, кнопкам и т.п."
+
+#: inc/customizer.php:163
+msgid "Predefined Colors"
+msgstr "Предустановленные цвета"
+
+#: inc/customizer.php:151 inc/customizer.php:177
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: inc/customizer.php:142
+msgid "Header Image Tagline"
+msgstr "Краткое описание"
+
+#: inc/customizer.php:128
+msgid "Header Image Title"
+msgstr "Название"
+
+#: inc/customizer.php:114
+msgid "Choose a color for the header tagline headline."
+msgstr "Выберите цвет текста краткого описания для изображения заголовка"
+
+#: inc/customizer.php:113
+msgid "Header Image Tagline Color"
+msgstr "Цвет текста краткого описания"
+
+#: inc/customizer.php:100
+msgid "Choose a color for the header image headline."
+msgstr "Выберите цвет текста заголовка для изображения заголовка"
+
+#: inc/customizer.php:99
+msgid "Header Image Headline Color"
+msgstr "Цвет текста заголовка"
+
+#: inc/customizer.php:56
+msgid "Applied to header background."
+msgstr "Применяется к фону шапки"
+
+#: inc/customizer.php:55
+msgid "Header Background Color"
+msgstr "Цвет фона шапки"
+
+#: inc/customizer.php:24
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer.php:23 inc/customizer.php:66
+msgid "Front Page Header"
+msgstr "Главная страница: Шапка"
+
+#: inc/custom-header.php:35
+msgctxt "header image description"
+msgid "Mountains"
+msgstr "Горы"
+
+#: image.php:102
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Комментарии закрыты."
+
+#: image.php:100
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Обратные ссылки закрыты, но вы можете <a class=\"comment-link\" href=\"#respond\" title=\"Написать комментарий\">оставить комментарий</a>."
+
+#: image.php:98
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Комментарии закрыты, но вы можете оставить обратную ссылку: <a class=\"trackback-link\" href=\"%s\" title=\"URL обратной ссылки, для вашей записи\" rel=\"trackback\">URL обратной ссылки</a>."
+
+#: image.php:96
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Оставить комментарий\">Напишите комментарий</a> или оставьте обратную ссылку: <a class=\"trackback-link\" href=\"%s\" title=\"URL обратной ссылки, для вашей записи\" rel=\"trackback\">URL обратной ссылки</a>."
+
+#: image.php:90 template-parts/content-link.php:33
+#: template-parts/content-page.php:27 template-parts/content.php:46
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: image.php:43
+msgid "Next &rarr;"
+msgstr "Следующий &rarr;"
+
+#: image.php:42
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущий"
+
+#: image.php:38 image.php:104
+msgid "Edit"
+msgstr "Изменить"
+
+#: image.php:28
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span>, <a href=\"%3$s\" title=\"Ссылка на полное изображение\">%4$s &times; %5$s</a> в галерее <a href=\"%6$s\" title=\"Вернуться к %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: functions.php:263
+msgid "Footer Widget right"
+msgstr "Виджеты в подвале: Справа"
+
+#: functions.php:249
+msgid "Footer Widget middle"
+msgstr "Виджеты в подвале: Центр"
+
+#: functions.php:237 functions.php:251 functions.php:266
+msgid "Widgets here will appear in your footer"
+msgstr "Здесь виджеты появятся в подвале"
+
+#: functions.php:235
+msgid "Footer Widget left"
+msgstr "Виджеты в подвале: Слева"
+
+#: functions.php:116
+msgid "Widgets here will appear in your sidebar"
+msgstr "Здесь виджеты появятся на боковой панели"
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:52
+msgid "Top Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:37
+msgid "Y"
+msgstr "Y"
+
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:68
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:65
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "%s: 1 комментарий"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страница не найдена."
+
+#. Author of the plugin/theme
+msgid "lighthouseseo"
+msgstr "lighthouseseo"
